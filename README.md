@@ -1,1 +1,1 @@
-# Javascript This is MY JAVASCRIPT 
+# This repository is mainly made for JS and Html
